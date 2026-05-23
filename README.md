@@ -1,3 +1,4 @@
+<img width="1080" height="360" alt="STRATEGY" src="https://github.com/user-attachments/assets/212e8f25-e40e-4585-b7e6-de46ef5c3adc" />
 # Bank Strategy ($BANK)
 
 Bank Strategy is a coordination and intelligence layer built for the emerging bankcoin ecosystem.
