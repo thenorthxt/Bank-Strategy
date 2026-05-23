@@ -1,149 +1,149 @@
 # Bank Strategy ($BANK)
 
-Bank Strategy is an interest-bearing memecoin framework designed around one idea:
+Bank Strategy is a coordination and intelligence layer built for the emerging bankcoin ecosystem.
 
-**What if a memecoin behaved more like a bank?**
+As stablecoin trading expands and “bank coins” multiply across the market, Bank Strategy exists to monitor, analyze, rank, and assist the strongest participants in the meta.
 
-Instead of relying purely on speculation, Bank Strategy converts trading activity into real on-chain yield distributed directly to holders.
-
-Holdings become deposits.  
-Fees become interest.  
-Distribution becomes automatic.
+Not just another bank coin.  
+A strategy layer for the entire bank economy.
 
 ---
 
 # Core Thesis
 
-Traditional memecoins reward attention.
+Most bank coins launch with:
+- no treasury structure
+- no monitoring layer
+- no coordination
+- no intelligence system
 
-Bank Strategy rewards deposits.
+Bank Strategy introduces a shared strategy framework designed to observe and strengthen the broader bank meta.
 
-The system routes protocol fee flow into USDC distributions,
-creating a holder-aligned reserve mechanism inspired by banking infrastructure.
-
-The more $BANK held,
-the larger the share of generated interest.
-
----
-
-# How It Works
-
-## High-Level Flow
-
-1. Trading activity generates protocol fees
-2. Fees accumulate into the treasury
-3. Treasury converts fees into USDC
-4. USDC is distributed proportionally to eligible holders
-5. Larger deposits receive larger yield allocation
-
-The mechanism operates continuously and transparently on-chain.
+The goal is not isolated growth.  
+The goal is ecosystem intelligence.
 
 ---
 
-# Deposit Logic
+# What Bank Strategy Does
 
-In Bank Strategy, holdings are treated as deposits.
+Bank Strategy acts as a meta-layer above the bankcoin ecosystem.
 
-## Interest Weighting
+It is designed to:
+- monitor bankcoin activity
+- track treasury and fee flows
+- score participation and liquidity strength
+- identify emerging bank trends
+- route visibility toward stronger ecosystems
 
-Interest allocation is based on:
-- wallet balance
-- holding duration
-- eligibility thresholds
-- anti-sybil protections
-
-Example:
-- larger balances → larger share
-- longer holding duration → higher weighting
-- short-term churn → reduced eligibility
-
-The goal is to reward stable deposits,
-not speculative rotation.
+The system continuously evaluates which bank structures are:
+- growing
+- sustainable
+- extractive
+- collapsing
+- or strengthening over time
 
 ---
 
-# Yield Source
+# Bank Meta Monitoring
 
-Yield does not come from inflation.
+Bank Strategy maintains a live overview of:
+- active bank coins
+- treasury activity
+- holder concentration
+- trading behavior
+- yield structures
+- participation quality
 
-Yield comes from:
-- trading fees
-- protocol activity
-- treasury routing
-
-USDC distributions are funded by real inflows,
-not synthetic emissions.
-
----
-
-# Treasury Logic
-
-The treasury operates as a reserve layer.
-
-Possible routing:
-- USDC distributions
-- reserve stabilization
-- strategic liquidity management
-- protocol operations
-
-All routing rules are transparent and configurable.
+The objective is to create a structured intelligence layer around the bank narrative.
 
 ---
 
-# Anti-Extraction Design
+# Treasury & Signal Analysis
 
-Bank Strategy includes mechanisms to reduce abusive farming behavior:
-- cooldown periods
-- minimum holding windows
-- time-weighted deposits
-- capped short-term extraction
+Bank Strategy analyzes:
+- protocol inflows/outflows
+- reserve stability
+- distribution quality
+- fee sustainability
+- liquidity health
 
-The system is optimized for long-term participation.
+Signals are transformed into:
+- rankings
+- confidence scores
+- visibility weighting
+- ecosystem health metrics
+
+---
+
+# Visibility Routing
+
+Attention is treated as a strategic resource.
+
+Bank Strategy may route visibility toward:
+- healthier treasury structures
+- sustainable participation
+- stronger reserve logic
+- higher quality bank ecosystems
+
+Weak structures naturally lose ranking over time.
 
 ---
 
 # Design Principles
 
-- Holder-aligned yield
-- Transparent treasury flows
-- Real distributions
-- Sustainable routing
-- Deposit-oriented incentives
+- Meta-aware infrastructure
+- Transparent signal analysis
+- No emotional governance
+- Strategy over hype
+- Ecosystem coordination over isolated competition
 
-This is not “staking.”
-This is deposit-based participation.
+The system is designed to observe first, react second.
 
 ---
 
 # Repository Structure
 
-- `docs/` — treasury logic, distribution specs
-- `scripts/` — simulations and payout modeling
-- `programs/` — future on-chain distribution logic
-- `apps/` — dashboards and treasury monitoring
-- `packages/` — reusable primitives
+- `docs/` — bank meta specs and scoring logic
+- `scripts/` — simulations and ecosystem monitoring
+- `programs/` — future automation and signal engines
+- `apps/` — dashboards and bank rankings
+- `packages/` — shared primitives and analytics modules
+
+---
+
+# Example Metrics
+
+Bank Strategy may evaluate:
+- treasury growth rate
+- holder retention
+- liquidity depth
+- fee efficiency
+- participation quality
+- reserve utilization
+- volatility stability
+
+Metrics are configurable and subject to iteration.
 
 ---
 
 # Status
 
-Bank Strategy is currently in the design and modeling phase.
+Bank Strategy is currently in the modeling and infrastructure phase.
 
 This repository documents:
-- yield distribution mechanics
-- treasury routing
-- holder weighting logic
-- reserve assumptions
-
-Parameters remain subject to iteration.
+- bank meta analysis systems
+- ranking logic
+- treasury signal processing
+- ecosystem coordination mechanics
 
 ---
 
 # Closing
 
-Banks pay interest on deposits.
+The bankcoin meta is expanding rapidly.
 
-Bank Strategy applies the same principle on-chain.
+Bank Strategy exists to organize it.
 
-Holdings become deposits.  
-Activity becomes yield.
+Monitor the banks.  
+Score the banks.  
+Strengthen the banks.
