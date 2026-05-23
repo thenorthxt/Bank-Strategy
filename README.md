@@ -1,5 +1,3 @@
-# Bank-Strategy
-
 # Bank Strategy ($BANK)
 
 Bank Strategy is an interest-bearing memecoin framework designed around one idea:
